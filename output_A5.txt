@@ -1,0 +1,18 @@
+/**
+ * Output_A5
+ * @author: Jobenpreet Singh, B00849528
+ * @date: April 03, 2021
+ * @purpose: Assignment 5
+ * @description: Console output
+ *
+ */
+
+Enter the filename to read from/encode: Pokemon.txt
+Printing codes to Huffman.txt
+Printing encoded text to Encoded.txt
+
+* * * * *
+
+Enter the file to read from/decode: Encoded.txt
+Enter the file of document containing Huffman codes: Huffman.txt
+Printing decoded text to Decoded.txt
